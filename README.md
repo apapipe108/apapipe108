@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/apapipe108/apapipe108/main/banner.png" alt="Luis Felipe Aparicio Ponce Banner" style="width:100%;" />
 
 
+
 ## 👋 ¡Hola! Soy Luis Felipe Aparicio Ponce  
 **Analista de Datos Jr.** con una historia de vida poco convencional: viajé por más de 15 países como monje, orador y formador en comunidades de yoga y meditación. Hoy canalizo esa experiencia en el mundo del análisis de datos, combinando pensamiento estructurado, comunicación efectiva y enfoque en resultados.
 

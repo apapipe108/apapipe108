@@ -1,11 +1,15 @@
-<img src="https://i.imgur.com/qT6Z1Sp.png" alt="Radha Banner" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/apapipe108/apapipe108/main/banner.png" alt="Luis Felipe Aparicio Ponce Banner" style="width:100%;"/>
 
-## 👋 ¡Hola! Soy Radha (Luis Felipe Aparicio Ponce)  
-**Analista de Datos Jr.** en transición desde la operación y la formación espiritual hacia la tecnología y los datos.  
+## 👋 ¡Hola! Soy Luis Felipe Aparicio Ponce  
+**Analista de Datos Jr.** con una historia de vida poco convencional: viajé por más de 15 países como monje, orador y formador en comunidades de yoga y meditación. Hoy canalizo esa experiencia en el mundo del análisis de datos, combinando pensamiento estructurado, comunicación efectiva y enfoque en resultados.
 
-📊 Egresado del bootcamp de **análisis de datos en TripleTen**, con proyectos reales enfocados en visualización, KPIs y automatización de reportes.
+---
 
-🌍 Mi historia de vida incluye más de 10 años de liderazgo y oratoria en comunidades de yoga y meditación en 15 países, lo que me da una perspectiva única para combinar habilidades humanas y técnicas.
+### 🔍 Sobre mí
+
+🎓 Egresado del bootcamp de análisis de datos en TripleTen  
+📈 Proyectos reales enfocados en KPIs, visualización y automatización de procesos  
+🌱 En constante formación, actualmente curso la Licenciatura en Enseñanza de Idiomas en la UNAM  
 
 ---
 
@@ -19,20 +23,22 @@
 
 ---
 
-### 🔥 GitHub Stats
 
-![Radha's GitHub stats](https://github-readme-stats.vercel.app/api?username=apapipe108&show_icons=true&theme=radical)
+### 🌐 Idiomas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apapipe108&layout=compact&theme=radical)
+![Español](https://img.shields.io/badge/-Español%20(Nativo)-E34F26?style=for-the-badge&logo=google-translate&logoColor=white)
+![Inglés](https://img.shields.io/badge/-Inglés%20(Avanzado)-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white)
+![Hindi](https://img.shields.io/badge/-Hindi%20(Básico)-F9A825?style=for-the-badge&logo=google-translate&logoColor=white)
+
 
 ---
 
-### 📫 Conecta conmigo:
+### 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/radha-govinda-83b8a42b6)
-[![Correo](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rgovinda.apa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/radha-govinda-83b8a42b6)  
+[![Correo](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rgovinda.apa@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/apapipe108)
 
 ---
 
-🧘‍♂️ *Transformando experiencia espiritual en claridad analítica.*  
+🧘‍♂️ *Transformando experiencia espiritual en claridad analítica.*
